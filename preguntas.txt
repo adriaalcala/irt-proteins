@@ -1,0 +1,50 @@
+1.- Todas las funciones de los vecinos las hace la proteina
+2.- < 25% de las funciones
+3.- Entre un 25% y un 50%
+4.- Entre un 50% y un 75%
+5.- Entre un 75% y un 100%
+6.- 0%
+7.- Todas las funciones de la proteina las hacen los vecinos
+8.- < 25% de las funciones
+9.- Entre un 25% y un 50%
+10.- Entre un 50% y un 75%
+11.- Entre un 75% y un 100%
+12.- 0%
+13.- Hace la función más popular de sus vecinos
+14.- La segunda
+15.- La tercera
+16.- El grado de la proteina esta en el primer cuartil
+17.- Segundo
+18.- Tercero
+19.- Cuarto
+20.- Tiene funciones de tipo celular component
+21.- De tipo molecular function
+22.- DE tipo biological process
+23.- Eccentricidad de la proteina esta en el primer cuartil
+24.- Segundo
+25.- Tercero
+26.- Cuarto
+27.- Es vertice de corte
+28.- Es de corte y eccentricidad de la proteina esta en el cuarto cuartil
+29.- Primero
+30.- Es de corte y grado de la proteina esta en el cuarto cuartil
+31.- Primero
+32.- Es de corte y todas las funciones de la proteina las hacen los vecinos
+33.- < 25% de las funciones
+34.- Entre un 25% y un 50%
+35.- Entre un 50% y un 75%
+36.- Entre un 75% y un 100%
+37.- Max blast en el primer cuartil
+38.- Segundo
+39.- Tercero
+40.- Cuarto
+41.- Min blast en el primer cuartil
+42.- Segundo
+43.- Tercero
+44.- Cuarto
+45.- Mean blast en el primer cuartil
+46.- Segundo
+47.- Tercero
+48.- Cuarto
+49.- 29 + 6
+50.- 29 + 7
