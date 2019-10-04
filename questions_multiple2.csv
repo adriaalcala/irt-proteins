@@ -1,0 +1,21 @@
+column,description
+name,Nombre de la proteina
+question_1,Porcentaje de las funciones de los vecinos que las hace la proteina (En tanto por 10)
+question_2,Porcentaje de las funciones de la proteina que las hace los vecinos (En tanto por 10)
+question_4,Hace la función más popular de sus vecinos
+question_5,Hace la segundo función más popular de sus vecinos
+question_6,Hace la tercera función más popular de sus vecinos
+question_7,El grado de la proteina esta en el decil x ordenado por frequencia
+question_8,La eccentricidad de la proteina esta en el decil x ordenado en orden inverso
+question_9,Es vertice de corte
+question_10,Es de corte y la eccentricidad esta en el cuarto cuartil
+question_11,Es de corte y la eccentricidad esta en el primer cuartil
+question_12,Es de corte y el grado esta en el cuarto cuartil
+question_13,Es de corte y el grado esta en el primer cuartil
+question_14,Es de corte y el porcentaje de las funciones de la proteina las hacen los vecinos
+question_15,Decil del max blast (cuanto menos semejanza mejor)
+question_16,Decil del mean blast (cuanto menos semejanza mejor)
+question_17,"Es de corte, la eccentricidad de la proteina esta en el cuarto cuartil y niguna de las funciones de los vecinos las hace la proteina"
+question_18,"Es de corte, la eccentricidad de la proteina esta en el cuarto cuartil y todas las funciones de la proteina las hacen los vecinos"
+question_19,"Es de corte, la eccentricidad de la proteina esta en el cuarto cuartil y niguna de las funciones de los vecinos las hace la proteina"
+question_20,"Es de corte, la eccentricidad de la proteina esta en el cuarto cuartil y todas las funciones de la proteina las hacen los vecinos"
